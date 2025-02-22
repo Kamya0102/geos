@@ -1,5 +1,0 @@
-Flask
-pandas
-pyarrow
-plotly
-gunicorn
